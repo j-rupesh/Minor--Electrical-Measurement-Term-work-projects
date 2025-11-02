@@ -14,19 +14,18 @@ Track your energy usage, optimize consumption, and get AI-powered insights — a
    ![Feature1](emp_project_photo/11.jpg)  
 
 2. **AI Assistant for Energy Optimization**  
-   ![Feature2](images/feature2.png)  
+   ![Feature2](EnergyMeterApp/emp_project_photo/2.jpg)  
 
 3. **Graphical Insights & Reports**  
-   ![Feature3](images/feature3.png)  
+   ![Feature3](EnergyMeterApp/emp_project_photo/4.jpg)  
 
 4. **Notifications & Alerts**  
-   ![Feature4](images/feature4.png)  
+   ![Feature4](EnergyMeterApp/emp_project_photo/6.jpg)  
 
 5. **User-Friendly Dashboard**  
-   ![Feature5](images/feature5.png)  
+   ![Feature5](EnergyMeterApp/emp_project_photo/7.jpg)  
 
-6. **Settings & Customization**  
-   ![Feature6](images/feature6.png)  
+ 
 
 ---
 
@@ -47,8 +46,8 @@ Track your energy usage, optimize consumption, and get AI-powered insights — a
 ---
 
 ## 📂 Links
-- [Play Store / App Store](https://www.your-app-store-link.com)  
-- [GitHub Repository](https://github.com/your-username/your-repo/releases)  
+
+- [GitHub Repository]([https://github.com/your-username/your-repo/releases](https://github.com/j-rupesh/EnergyMeterApp))  
 
 ---
 
