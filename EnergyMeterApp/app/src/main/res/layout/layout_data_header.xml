@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/cardBackgroundColor"
+    android:padding="8dp">
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Timestamp"
+        android:textColor="@color/primaryColor"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Voltage (V)"
+        android:textColor="@color/primaryColor"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Current (A)"
+        android:textColor="@color/primaryColor"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Power (kW)"
+        android:textColor="@color/primaryColor"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Power Factor"
+        android:textColor="@color/primaryColor"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Energy (kWh)"
+        android:textColor="@color/primaryColor"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Frequency (Hz)"
+        android:textColor="@color/primaryColor"
+        android:textStyle="bold" />
+
+</LinearLayout>

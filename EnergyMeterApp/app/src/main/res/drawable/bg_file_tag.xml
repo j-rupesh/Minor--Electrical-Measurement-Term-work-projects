@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- This defines the rounded corners for the file tag -->
+    <corners android:radius="12dp" />
+
+    <!-- Optional: Add some padding inside the tag boundary -->
+    <padding
+        android:left="4dp"
+        android:top="2dp"
+        android:right="4dp"
+        android:bottom="2dp" />
+
+    <!-- Note: The color is set dynamically using android:backgroundTint="?attr/colorPrimary"
+         in your activity_ai_analyze.xml, so we don't need a <solid> tag here. -->
+</shape>

@@ -1,0 +1,128 @@
+[
+  {
+    "voltage": 235.95,
+    "current": 7.82,
+    "power": 15.5,
+    "pf": -0.998
+  },
+  {
+    "voltage": 236.06,
+    "current": 7.81,
+    "power": 15.52,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.86,
+    "current": 7.77,
+    "power": 15.52,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.85,
+    "current": 7.79,
+    "power": 15.56,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.89,
+    "current": 7.79,
+    "power": 15.55,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.73,
+    "current": 7.8,
+    "power": 15.52,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.78,
+    "current": 7.82,
+    "power": 15.57,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.66,
+    "current": 7.82,
+    "power": 15.48,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.65,
+    "current": 7.78,
+    "power": 15.55,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.69,
+    "current": 7.77,
+    "power": 15.52,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.64,
+    "current": 7.79,
+    "power": 15.54,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.71,
+    "current": 7.8,
+    "power": 15.54,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.64,
+    "current": 7.77,
+    "power": 15.53,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.64,
+    "current": 7.79,
+    "power": 15.5,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.7,
+    "current": 7.8,
+    "power": 15.51,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.7,
+    "current": 7.81,
+    "power": 15.49,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.65,
+    "current": 7.81,
+    "power": 15.48,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.66,
+    "current": 7.82,
+    "power": 15.56,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.66,
+    "current": 7.8,
+    "power": 15.54,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.66,
+    "current": 7.81,
+    "power": 15.53,
+    "pf": -0.998
+  },
+  {
+    "voltage": 235.67,
+    "current": 7.82,
+    "power": 15.49,
+    "pf": -0.998
+  }
+]

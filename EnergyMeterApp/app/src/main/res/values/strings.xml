@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EnergyMeterApp</string>
+
+    <string name="all_data_title">Energy Data Sheet</string>
+
+    <string name="download_csv">Download CSV</string>
+
+</resources>

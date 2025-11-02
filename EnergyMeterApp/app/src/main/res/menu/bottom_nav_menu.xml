@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_ai_analyze"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="AI Analyze"/>
+
+    <item
+        android:id="@+id/navigation_analysis"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Analysis"/>
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_all_data"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="All Data"/>
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Settings"/>
+
+</menu>

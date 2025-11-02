@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FINAL CORRECTION: This layout now has the correct 7 fields with consistent IDs. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/table_cell_background"
+    android:padding="1dp">
+
+    <TextView
+        android:id="@+id/tvTimestamp"
+        android:layout_width="160dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="?attr/colorOnSurface"
+        tools:text="2024-07-29 12:00" />
+
+    <TextView
+        android:id="@+id/tvVoltage"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="?attr/colorOnSurface"
+        tools:text="R:230, Y:231, B:232" />
+
+    <TextView
+        android:id="@+id/tvCurrent"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="?attr/colorOnSurface"
+        tools:text="R:1.1, Y:1.2, B:1.3" />
+
+    <TextView
+        android:id="@+id/tvPower"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="?attr/colorOnSurface"
+        tools:text="Active: 0.8, Reactive: 0.2" />
+
+    <TextView
+        android:id="@+id/tvPF"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="?attr/colorOnSurface"
+        tools:text="0.98" />
+
+    <TextView
+        android:id="@+id/tvEnergy"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="?attr/colorOnSurface"
+        tools:text="12345 kWh" />
+
+    <TextView
+        android:id="@+id/tvFrequency"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="?attr/colorOnSurface"
+        tools:text="50.0 Hz" />
+
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="primaryColor">#00BFFF</color> <!-- DeepSkyBlue for a modern dark theme -->
+    <color name="primaryDarkColor">#009ACD</color>
+    <color name="accentColor">#00BFFF</color>
+
+    <!-- Backgrounds -->
+    <color name="backgroundColor">#121212</color> <!-- Standard dark theme background -->
+    <color name="cardBackgroundColor">#1E1E1E</color> <!-- Slightly lighter for cards -->
+
+    <!-- Text -->
+    <color name="textColor">#E0E0E0</color>
+    <color name="textColorSecondary">#A0A0A0</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+
+    <!-- Other UI Elements -->
+    <color name="dividerColor">#404040</color>
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#F44336</color>
+
+    <!-- Chart & Data Colors -->
+    <color name="voltageColor">#2196F3</color>
+    <color name="currentColor">#9C27B0</color>
+    <color name="powerColor">#FFC107</color>
+    <color name="energyColor">#8BC34A</color>
+    <color name="pfColor">#00BCD4</color>
+    <color name="infoColor">#00BCD4</color>
+
+    <!-- Hardcoded Colors (if needed, but prefer theme attributes) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
